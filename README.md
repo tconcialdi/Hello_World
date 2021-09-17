@@ -3,7 +3,7 @@
 
 ## Table of contents
 
-- [Title](#Project-Title)
+- [Title](#Title)
 - [Description](#Description)
 - [Instructions](#Instructions)
 - [Resources](#Resources)
