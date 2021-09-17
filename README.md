@@ -12,12 +12,29 @@
 
 
 ### **Title**
+
+*Hello world*
+
+
 ### **Description**
+
+*Im learning Github!*
+
 ### **Instructions**
+
+*click readme!*
+
 ### **Resources**
+
+*www.stackoverflow.com*
+
 ### **Additional Documentation**
+
+*none*
+
 ### **File Versions**
 
+10.12.1
 
 ### **Bio**
 
